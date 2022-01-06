@@ -30,8 +30,12 @@ I've been working and studying some programming languages since 2020.
 <br>
 <br>
 <br>
-<br>
 <p align="center" > 
+   
+  <img src= "https://github-readme-stats.vercel.app/api?username=carlospagan&show_icons=true&theme=dark&include_all_commits=true&count_private=true" />
+  <br>
+  <br>
+  <br>
   <i>Thanks for passing by</i><br><br>
   <i>Feel free to connect with me</i><br><br>
   <a href="https://instagram.com/odoardin13">
