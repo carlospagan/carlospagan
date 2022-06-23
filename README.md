@@ -42,7 +42,7 @@ I've been working and studying some programming languages since 2020.
   <i>Thanks for passing by</i><br><br>
   <i>Feel free to connect with me</i><br><br>
   <a href="https://instagram.com/odoardin13">
-  <code><img alt="My Instagram" width="32" src="./images/instagram.svg" /></code>
+  <code><img alt="Instagram" width="32" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Instagram-Icon.png/1200px-Instagram-Icon.png" /></code>
 </a>
 </a>
 </p>
