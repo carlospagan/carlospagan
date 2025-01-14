@@ -4,8 +4,8 @@
 Hello! 👋 I'm Carlos Eduardo Pagan, a technology enthusiast and full stack developer passionate about creating innovative solutions. I have solid experience in building applications using Node.js, Express.js, and React, aiming to deliver exceptional user experiences.
 
 ## Technologies I Master
-- **Languages:** JavaScript (Node.js, React)
-- **Database:** MongoDB
+- **Languages:** JavaScript/Typescript (Node.js, React)
+- **Database:** MongoDB, Postgres, Redis
 - **Version Control:** Git with Gitflow
 - **Operating System:** Linux
 
@@ -22,6 +22,6 @@ Hello! 👋 I'm Carlos Eduardo Pagan, a technology enthusiast and full stack dev
 
 ## Contact
 - **LinkedIn:** [Carlos Eduardo Pagan](https://www.linkedin.com/in/carlos-eduardo-pagan-88511214b/)
-- **Email:** cadupagan201360@gmail.com
+- **Email:** carlos.pagann@icloud.com
 
 Feel free to explore my repositories and reach out for collaborations or interesting opportunities. Let's build something amazing together! 🚀
